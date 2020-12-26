@@ -65,7 +65,7 @@ public class SignIn extends AppCompatActivity {
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if (task.isSuccessful()) {
                             Toast.makeText(SignIn.this, "User created", Toast.LENGTH_SHORT).show();
-                            startActivity(new Intent(getApplicationContext(),HomePage.class));
+                            startActivity(new Intent(getApplicationContext(),MapsActivity.class));
                             mProgressBar.setVisibility(View.GONE);
 
 
