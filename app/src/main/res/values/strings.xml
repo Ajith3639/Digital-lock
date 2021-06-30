@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Digital Lock</string>
+    <string name="e_maill">E-MAIL</string>
+    <string name="dont_have_an_account_register_here">Dont have an account?Register here.</string>
+    <string name="forgot_password">FORGOT PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="passwordd">PASSWORD</string>
+    <string name="e_mail">E-MAIL</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">REGISTER</string>
+    <string name="already_registered_click_here_to_login">Already registered?Click here to login.</string>
+    <string name="password">PASSWORD</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="name">NAME</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="all_rights_reserved">All rights reserved</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

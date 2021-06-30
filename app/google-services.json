@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "388487637545",
+    "firebase_url": "https://digital-lock.firebaseio.com",
+    "project_id": "digital-lock",
+    "storage_bucket": "digital-lock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388487637545:android:c71efe27b2ada72ba6ca38",
+        "android_client_info": {
+          "package_name": "android.example.digitallock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388487637545-7idlm0dpqot86bdn41i4uivc5mdk02it.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.digitallock",
+            "certificate_hash": "f30bf87e877175f2cd8809af193aa07d35e98254"
+          }
+        },
+        {
+          "client_id": "388487637545-4nnbusfo0nno7pd91rlt0a7le81g219f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbTu_LpgCuNvy-ST8Ja7qxvwfRnzNWhuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388487637545-4nnbusfo0nno7pd91rlt0a7le81g219f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
